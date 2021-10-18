@@ -1,0 +1,1 @@
+{"compilerOptions":{"baseUrl":"./src","paths":{"@components":["./components"],"@contracts":["./contracts"],"@data":["./data"],"@hooks":["./hooks"],"@pages":["./pages"],"@store":["./store"],"@theme":["./theme"],"@utility":["./utility"]}}}

@@ -1,0 +1,10 @@
+[
+  { "name": "@components", "path": "components" },
+  { "name": "@contracts", "path": "contracts" },
+  { "name": "@data", "path": "data" },
+  { "name": "@hooks", "path": "hooks" },
+  { "name": "@pages", "path": "pages" },
+  { "name": "@store", "path": "store" },
+  { "name": "@theme", "path": "theme" },
+  { "name": "@utility", "path": "utility" }
+]
